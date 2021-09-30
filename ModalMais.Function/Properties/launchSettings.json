@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ModalMais.Function": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 34296,
+      "useSSL": false
+    }
+  }
+}
